@@ -7,6 +7,7 @@ namespace mbTCPserver
 {
     class Program
     {
+        //test
         static void Main(string[] args)
         {
             ModbusServer mbServer = new ModbusServer();
