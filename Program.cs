@@ -8,6 +8,7 @@ namespace mbTCPserver
     class Program
     {
         //test
+        //jopa
         static void Main(string[] args)
         {
             ModbusServer mbServer = new ModbusServer();
